@@ -1,0 +1,6 @@
+E:\Android\MyApplication\app\build\intermediates\classes\debug
+E:\Android\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-80ea57eaf4f470e8b0b87fd1ba3725295f90656b.jar
+E:\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d59466c93449022f6436370d3b6d2d3ca98a6e8d.jar
+E:\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes-a232fa8b98d9a03a356ebf9e59f6f82cf1161979.jar
+E:\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes-e55be819324828714e867490b0ae16d363ab9a0e.jar
+E:\Android\MyApplication\app\build\intermediates\pre-dexed\debug\guava-18.0-61c5d0e54933ba8094fd4a394c6c5bfee95e0491.jar

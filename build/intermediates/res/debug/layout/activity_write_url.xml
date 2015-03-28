@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.nuaa.manso_he.nfctest1.WriteURL">
+
+    <LinearLayout
+        android:id="@+id/write_tag_url_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/write_tag_url_btn"
+            android:text="Write to Tag"/>
+        </LinearLayout>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/write_tag_url_et"
+        android:gravity="top"
+        android:text="google.com"/>
+
+</LinearLayout>
+<!-- From: file:/E:/Android/MyApplication/app/src/main/res/layout/activity_write_url.xml -->

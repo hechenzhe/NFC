@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFCTest</string>
+    <string name="btn_Read">Read</string>
+    <string name="btn_Write">Write</string>
+    <string name="title_activity_main_activity2">Read</string>
+    <string name="tv_act2">检测到NFCTag</string>
+    <string name="title_scanned_tag_NDEF">New NDEFMsg collected</string>
+    <string name="inquire">Warning</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="nfc_notice2">NFC adapter is not available</string>
+    <string name="nfc_notice3">NFC功能没有打开，是否打开？</string>
+    <string name="title_activity_main_activity3">Write</string>
+</resources>
